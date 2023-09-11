@@ -81,3 +81,19 @@ export const registrationFormControls = [
         ]
     }
 ]
+export const loginFormControls = [
+    {
+        id: "email",
+        label: "Email",
+        type: "email",
+        placeholder: "Enter your femail",
+        componentType: "input",
+    },
+    {
+        id: "password",
+        label: "Password",
+        type: "password",
+        placeholder: "Enter Password",
+        componentType: "input",
+    },
+]
