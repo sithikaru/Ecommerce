@@ -38,3 +38,7 @@ export const adminNavOptions=[
         path:"/admin-view/add-product"
     },
 ]
+
+export const styles={
+    button: "mt-1.5 online-black bg-black px-5 py-3 tex-xs font-medium uppercase traking-wide text-white",
+}

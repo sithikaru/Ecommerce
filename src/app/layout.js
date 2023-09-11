@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>
       <MyLazyComponent>
         <Navbar />
-        <main>{children}</main>
+        <main className='flex min-h-screen flex-col '>{children}</main>
       </MyLazyComponent>
       </body>
     </html>
