@@ -42,3 +42,9 @@ export const adminNavOptions=[
 export const styles={
     button: "mt-1.5 online-black bg-black px-5 py-3 tex-xs font-medium uppercase traking-wide text-white",
 }
+
+export const registrationFormControls=[
+    {
+
+}
+]
