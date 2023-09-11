@@ -1,7 +1,7 @@
 'use client'
 
 import { Globalcontext } from "@/context";
-import { adminNavOptions, navOptions, styles } from "@/utils";
+import { adminNavOptions, navOptions} from "@/utils";
 import { func } from "joi";
 import { Fragment, useContext } from "react";
 import CommonModal from "../CommonModal";
