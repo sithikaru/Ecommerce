@@ -42,7 +42,7 @@ export const adminNavOptions = [
 
 export const registrationFormControls = [
     {
-        id: "firstName",
+        id: "name",
         label: "Name",
         type: "text",
         placeholder: "Enter your first name",

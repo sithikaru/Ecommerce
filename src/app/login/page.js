@@ -33,7 +33,7 @@ export default function Login(){
                                             Login
                                         </button>
                                         <hr/>
-                                        <p className="text-gray-700 text-sm font-light">Don't have a acount? Register.</p>
+                                        <p className="text-gray-700 text-sm font-light">New to website?</p>
                                         <button className="inline-flex w-full item-center justify-center bg-black px-6 py-4 text-lg text-white transition-all duration-200 ease-in-out focus:shadow font-medium uppercase tracking-wide">
                                             Register
                                         </button>
